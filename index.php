@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My first PHP page for TECHMAHINDRA version-E1</h1>
+<h1>Welcome to My first PHP page for TECHMAHINDRA version-E1</h1>
 
 <?php
 echo "Hello World! from GIT";
